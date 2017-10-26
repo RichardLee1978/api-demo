@@ -1,0 +1,25 @@
+{
+  "preset": "node-style-guide",
+  "esnext": true,
+  "disallowSpacesInAnonymousFunctionExpression": {
+    "beforeOpeningRoundBrace": true
+  },
+  "requireCurlyBraces": [
+    "if",
+    "else",
+    "for",
+    "while",
+    "do",
+    "try",
+    "catch"
+  ],
+  "disallowMultipleVarDecl": null,
+  "disallowQuotedKeysInObjects": "allButReserved",
+  "requireCapitalizedComments": null,
+  "maximumLineLength": 100,
+  "requireTrailingComma": null,
+  "validateIndentation": 2,
+  "requireCamelCaseOrUpperCaseIdentifiers": "ignoreProperties",
+  "disallowQuotedKeysInObjects": null,
+  "jsDoc": null
+}

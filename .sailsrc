@@ -1,0 +1,13 @@
+{
+  "hooks": {
+    "sockets": false,
+    "pubsub": false,
+    "grunt": false,
+    "i18n": false,
+    "csrf": false,
+    "views": false
+  },
+  "generators": {
+    "modules": {}
+  }
+}
